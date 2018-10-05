@@ -1,0 +1,28 @@
+{
+  "name": "taskmanager",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mayur2594/taskmanager.git"
+  },
+  "author": "Mayur Mhatre",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mayur2594/taskmanager/issues"
+  },
+  "homepage": "https://github.com/Mayur2594/taskmanager#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "crypto": "^1.0.1",
+    "express": "^4.16.3",
+    "jsonwebtoken": "^8.3.0",
+    "mongoose": "^5.3.1",
+    "multer": "^1.4.0",
+    "socket.io": "^2.1.1"
+  }
+}
